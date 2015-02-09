@@ -1,0 +1,14 @@
+1
+Andy
+Elaine
+5
+Andy
+Bill
+Claire
+Daniel
+Elaine
+0 1 1 1 0
+1 0 0 0 1
+1 0 0 0 1
+1 0 0 0 1
+0 1 1 1 0
